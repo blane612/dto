@@ -1,22 +1,20 @@
-name: <name here>
-date: <date here>
+name: <Brielle Lane>
+date: <7/1/2021>
 
 Data Types and Operations | Questions
 
 Please answer all of the following questions thoughtfully and completely.
 
 
-
 1a - What is the resulting type of two integers used together for an operation, like 5 + 4?
-
+The result would be the answer, 8.
 
 
 1b - Is there an exception to this rule, with a certain operator?
 
 
-
 2a - What is the resulting type of an integer and a float used together for an operation, like -11.4 - 5?
-
+It would result as a float.
 
 
 2b - Is there an exception to this rule, with a certain operator?
@@ -24,7 +22,7 @@ Please answer all of the following questions thoughtfully and completely.
 
 
 3a - What is the resulting type of two floats used together for an operation, like 2.3 * .45?
-
+It would result as a float.
 
 
 3b - Is there an exception to this rule, with a certain operator?
@@ -32,15 +30,15 @@ Please answer all of the following questions thoughtfully and completely.
 
 
 4 - What is string concatenation? How does it work?
-
+String concatenation is when you combine strings. For ex. print('red ' + 'folder ') and that would result in red folder in the console. 
 
 
 5 - What is string duplication? How does it work?
-
+String duplication is when strings are duplicated or repeated by using multiplication. For ex. print('blue' * 2) and that would result as blueblue in the console.
 
 
 6 - Can you combine strings and integers? What about strings and floats? What happens if you do?
-
+Yes you can combine strings and intergers hence string duplication. You cannot combine strings and floats because 
 
 
 7 - What does this tell you about how strings can interact with integers or floats?
